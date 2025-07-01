@@ -1,7 +1,7 @@
 **Multi Agent System for CV and Job Description Alignment**
 
 Agent Structure
-![](https://github.com/AndresLie/CV-and-Job-Desc-Agent/blob/main/Agent%20Stucture.png))
+![](https://github.com/AndresLie/CV-and-Job-Desc-Agent/blob/main/Agent%20Stucture.png) \
 Model: Groq llama3-70b-8192
 
 專案目的: This agent is an intelligent career guidance tool that helps job seekers optimize their applications by conducting a structured evaluation process. The core objective is to bridge the gap between what employers are looking for and what candidates currently offer.
